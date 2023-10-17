@@ -64,6 +64,4 @@ If you'd like to contribute to this project, please follow these guidelines:
 
 Your contributions are greatly appreciated!
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
