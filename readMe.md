@@ -19,9 +19,9 @@ Welcome to my portfolio website! This website serves as a platform to display my
 
 - **Responsive Design:** The website is fully responsive and works seamlessly on various devices and screen sizes.
 
-- **Interactive Projects:** Showcase your projects with descriptions and links, allowing visitors to explore your work.
+- **Interactive Projects:** Showcase my projects with descriptions and links, allowing visitors to explore my work.
 
-- **About Me Section:** Provide an overview of your background, education, and skills.
+- **About Me Section:** Provide an overview of my background, education, and skills.
 
 - **Contact Information:** Include contact details, such as email or social media links, for easy communication.
 
